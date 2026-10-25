@@ -1,0 +1,601 @@
+age,annual_income,employment,credit_history,housing,purpose,loan_amount,term_months,existing_loans,risk
+67,42100.0,,fair,rent,education,5100,48,1,low
+50,34100.0,salaried,good,rent,business,8500,12,1,low
+53,34800.0,salaried,good,mortgage,education,2200,24,0,low
+64,39100.0,contract,fair,mortgage,home improvement,2700,24,0,low
+48,75400.0,unemployed,poor,mortgage,business,11400,60,1,high
+58,49000.0,salaried,good,rent,education,13100,36,1,low
+61,37200.0,contract,good,mortgage,car,7800,24,1,low
+30,29400.0,salaried,good,mortgage,personal,17700,12,1,low
+21,28700.0,salaried,good,mortgage,car,17200,60,0,high
+34,78500.0,salaried,poor,rent,business,16300,36,1,high
+33,48000.0,salaried,fair,own,home improvement,3300,48,1,low
+63,39400.0,salaried,poor,own,home improvement,25900,60,0,high
+65,32700.0,salaried,good,own,car,2900,12,1,low
+19,23200.0,self-employed,good,own,personal,6900,12,2,low
+44,37000.0,salaried,fair,rent,education,1200,12,2,low
+60,56600.0,contract,fair,rent,business,10700,60,3,high
+25,32000.0,contract,good,rent,personal,7500,24,0,low
+59,34500.0,,good,mortgage,personal,13200,36,1,low
+25,34600.0,salaried,fair,own,business,7200,12,1,low
+42,40100.0,unemployed,fair,mortgage,business,3400,24,2,high
+60,,salaried,good,rent,personal,8200,24,3,low
+34,34300.0,salaried,good,mortgage,personal,2800,60,0,low
+36,26000.0,salaried,poor,rent,car,28400,48,1,high
+33,56800.0,unemployed,good,mortgage,home improvement,2200,36,1,low
+55,27000.0,self-employed,fair,own,education,13100,36,1,low
+31,49500.0,salaried,fair,rent,business,3700,36,3,high
+69,75800.0,salaried,good,mortgage,car,4900,12,1,low
+41,33200.0,salaried,good,mortgage,personal,5700,24,0,low
+43,29100.0,salaried,good,mortgage,personal,14100,48,2,low
+44,41600.0,unemployed,good,rent,car,8800,60,0,high
+48,38100.0,unemployed,good,mortgage,business,9400,60,2,high
+47,24400.0,salaried,good,mortgage,home improvement,2900,12,3,low
+44,47000.0,salaried,good,mortgage,personal,14600,60,2,low
+69,94600.0,salaried,good,rent,business,7200,24,1,low
+60,34000.0,contract,fair,mortgage,personal,6200,12,1,low
+59,34800.0,self-employed,good,mortgage,car,20700,24,2,low
+54,23900.0,self-employed,,rent,business,15600,24,0,high
+50,44100.0,self-employed,fair,rent,business,9000,12,1,high
+36,21800.0,salaried,fair,rent,car,14200,48,0,high
+69,23200.0,contract,good,mortgage,business,3500,60,0,low
+42,67900.0,salaried,good,rent,personal,7800,60,1,low
+29,25400.0,self-employed,fair,mortgage,personal,9900,36,3,high
+62,62100.0,salaried,good,rent,home improvement,6600,24,1,low
+27,75800.0,salaried,poor,,education,5400,48,0,high
+62,42900.0,unemployed,poor,rent,personal,8100,24,1,high
+50,49000.0,salaried,good,rent,home improvement,3600,60,2,low
+24,91900.0,salaried,good,mortgage,education,8100,36,0,low
+21,34900.0,salaried,poor,rent,personal,17700,36,2,high
+41,29200.0,self-employed,good,own,business,12400,36,0,low
+20,20800.0,salaried,,,home improvement,10500,24,0,high
+26,38900.0,salaried,poor,rent,car,5800,60,0,high
+45,74300.0,salaried,fair,own,personal,28600,36,0,low
+68,58800.0,salaried,poor,own,education,9300,12,0,low
+42,,salaried,good,mortgage,home improvement,3900,36,0,low
+60,26000.0,salaried,poor,rent,car,30400,24,0,high
+65,30400.0,salaried,good,own,education,29300,24,0,high
+60,43500.0,self-employed,good,rent,personal,9400,12,0,low
+51,34800.0,,good,mortgage,education,13400,24,0,low
+41,42000.0,contract,good,rent,car,11900,36,0,low
+45,43600.0,unemployed,fair,rent,education,10000,24,2,high
+32,33400.0,salaried,poor,mortgage,car,15000,36,0,high
+44,37500.0,salaried,good,mortgage,home improvement,5600,48,0,low
+38,41900.0,contract,good,own,car,5600,36,1,low
+31,36800.0,salaried,good,,car,4300,12,1,low
+69,47900.0,,good,rent,education,11800,48,2,low
+19,88600.0,salaried,poor,rent,personal,9000,60,0,high
+23,49800.0,self-employed,poor,rent,education,8400,60,0,high
+28,39100.0,salaried,poor,mortgage,personal,16700,24,1,high
+68,17900.0,self-employed,fair,rent,business,6200,60,0,high
+54,45500.0,unemployed,fair,mortgage,car,8000,24,0,high
+63,15900.0,salaried,good,rent,education,12200,12,1,low
+29,20300.0,contract,good,rent,car,27100,12,0,high
+55,56100.0,salaried,good,own,car,26900,48,0,low
+37,52500.0,salaried,poor,rent,car,14200,24,1,high
+43,35700.0,salaried,good,rent,education,9800,60,1,high
+19,17700.0,salaried,good,rent,personal,13800,24,0,low
+50,32300.0,salaried,good,rent,personal,13900,12,0,low
+61,28100.0,self-employed,good,mortgage,car,16800,48,0,low
+52,50800.0,salaried,fair,mortgage,education,8800,36,1,low
+26,105400.0,self-employed,good,mortgage,business,2900,60,0,low
+46,42100.0,unemployed,good,rent,business,14100,60,2,high
+32,26900.0,unemployed,poor,rent,education,6500,24,0,high
+68,22500.0,contract,poor,own,home improvement,9100,24,1,high
+63,,contract,fair,rent,car,5300,60,0,low
+28,35300.0,salaried,fair,mortgage,home improvement,10400,24,0,low
+44,,unemployed,good,own,education,3200,24,1,low
+66,40200.0,salaried,poor,own,car,7300,12,1,low
+62,,contract,fair,mortgage,business,14100,36,0,high
+55,63000.0,contract,fair,mortgage,car,7600,24,0,low
+51,61600.0,self-employed,good,own,car,7200,12,2,low
+21,,salaried,good,own,home improvement,19700,12,1,low
+56,30800.0,salaried,good,mortgage,personal,35200,60,1,high
+43,48100.0,salaried,good,rent,education,8100,12,1,low
+23,36000.0,salaried,good,own,home improvement,7500,24,1,low
+31,32000.0,salaried,good,mortgage,car,4300,24,1,low
+46,32800.0,salaried,good,rent,education,11200,48,1,low
+56,21300.0,contract,good,own,car,16700,36,1,high
+44,19900.0,unemployed,good,mortgage,education,11000,12,0,high
+50,54600.0,salaried,good,rent,business,6600,48,1,low
+63,35000.0,salaried,good,rent,business,12800,48,0,low
+53,42100.0,salaried,fair,rent,education,9300,36,0,low
+37,59900.0,salaried,good,own,business,7100,24,2,low
+51,17500.0,,good,rent,education,4100,60,0,low
+49,26800.0,self-employed,fair,mortgage,education,12000,36,0,high
+24,41300.0,salaried,fair,own,car,9200,48,0,low
+22,45500.0,salaried,good,mortgage,education,19900,48,0,low
+52,32200.0,salaried,fair,rent,education,5700,12,0,low
+38,60700.0,self-employed,fair,rent,home improvement,9700,12,0,low
+49,42000.0,salaried,poor,mortgage,personal,12200,12,1,low
+35,22100.0,salaried,fair,own,personal,6300,36,1,low
+30,25100.0,salaried,fair,rent,education,7200,24,0,low
+26,54900.0,contract,fair,rent,home improvement,7500,60,1,low
+38,47000.0,salaried,good,mortgage,car,11700,60,0,low
+60,16200.0,self-employed,fair,own,personal,23800,12,1,high
+39,70000.0,salaried,good,mortgage,education,12700,48,0,low
+38,50000.0,contract,good,rent,business,2900,36,1,low
+48,69900.0,salaried,good,mortgage,personal,4700,12,1,low
+68,32100.0,salaried,good,mortgage,home improvement,8700,12,1,low
+39,33400.0,contract,good,own,personal,14300,60,0,low
+49,23000.0,self-employed,fair,mortgage,home improvement,10400,12,2,low
+41,119600.0,salaried,fair,own,personal,13600,36,1,low
+49,35300.0,salaried,fair,mortgage,business,5200,36,0,low
+41,78000.0,unemployed,good,rent,business,37500,48,0,high
+51,28500.0,salaried,fair,own,home improvement,7400,36,2,low
+46,41100.0,salaried,poor,rent,personal,2800,36,1,high
+53,18000.0,unemployed,good,rent,business,9300,48,0,high
+67,32100.0,salaried,good,mortgage,home improvement,26100,24,0,low
+26,59400.0,salaried,good,mortgage,car,4500,60,0,low
+47,21700.0,salaried,good,own,personal,13300,48,1,low
+41,61900.0,salaried,good,rent,education,12200,48,3,low
+37,44400.0,salaried,fair,rent,car,23000,60,1,high
+31,23900.0,self-employed,good,rent,personal,11200,24,1,low
+21,30500.0,salaried,fair,mortgage,business,15700,48,1,high
+39,31100.0,salaried,fair,rent,education,11100,36,1,high
+61,37300.0,contract,fair,rent,home improvement,12500,24,2,high
+23,30000.0,contract,good,mortgage,personal,4700,48,2,low
+39,26300.0,self-employed,fair,rent,education,4000,12,0,low
+68,33300.0,salaried,fair,mortgage,personal,10600,60,0,low
+67,24100.0,salaried,fair,rent,car,9000,60,0,low
+29,21400.0,self-employed,,rent,home improvement,10000,48,0,high
+19,37400.0,salaried,poor,rent,business,19400,24,2,high
+53,56800.0,contract,fair,mortgage,car,3400,36,0,low
+19,19200.0,salaried,good,rent,education,8800,24,0,low
+34,38200.0,salaried,good,own,business,18300,12,2,high
+44,28500.0,salaried,fair,mortgage,business,3500,60,0,low
+63,24600.0,self-employed,fair,own,business,4500,60,0,low
+23,56100.0,contract,good,own,business,2000,48,1,low
+52,30200.0,self-employed,good,rent,education,13500,24,2,low
+46,74900.0,salaried,good,own,car,12100,60,1,low
+25,26900.0,unemployed,fair,mortgage,personal,2800,36,1,high
+62,45400.0,self-employed,good,own,car,18200,36,1,low
+62,34500.0,salaried,good,rent,home improvement,6400,60,2,low
+43,27200.0,salaried,good,own,personal,7100,12,1,low
+67,49700.0,contract,good,mortgage,car,12200,24,4,low
+49,35600.0,salaried,good,rent,business,14800,48,1,low
+65,50100.0,self-employed,,rent,car,4400,60,3,high
+67,37400.0,self-employed,good,rent,car,10600,60,1,low
+48,23400.0,salaried,fair,rent,education,8400,24,0,low
+33,,contract,good,own,education,21200,48,0,low
+26,39100.0,salaried,good,rent,business,5200,12,1,low
+47,58800.0,salaried,,rent,education,21000,36,1,high
+28,25400.0,salaried,poor,rent,personal,2100,36,0,high
+57,37500.0,contract,good,rent,car,13300,60,1,low
+66,,salaried,good,own,car,22500,48,0,high
+31,51200.0,self-employed,good,own,education,13800,12,1,low
+47,23500.0,salaried,good,rent,car,19900,36,1,high
+21,16900.0,,fair,rent,education,17000,12,1,high
+28,37200.0,unemployed,fair,,business,2900,60,1,high
+38,62800.0,salaried,,own,business,5700,12,1,low
+64,19200.0,unemployed,fair,mortgage,home improvement,18700,24,0,high
+68,23400.0,self-employed,good,own,education,10700,48,1,low
+51,,salaried,good,rent,home improvement,8200,60,2,low
+48,23000.0,salaried,fair,mortgage,home improvement,21400,60,0,high
+48,45300.0,salaried,fair,rent,personal,12300,12,1,low
+22,26500.0,salaried,good,own,car,3700,24,1,low
+38,27600.0,salaried,good,mortgage,personal,9500,24,1,low
+69,49600.0,salaried,poor,own,education,6700,24,1,high
+39,27200.0,salaried,good,rent,personal,4300,12,2,low
+29,46400.0,self-employed,good,mortgage,education,7600,48,1,low
+31,24700.0,contract,good,own,business,6500,48,0,low
+55,22100.0,unemployed,poor,rent,home improvement,8800,36,0,high
+20,16700.0,salaried,good,rent,car,8400,36,1,high
+68,88200.0,self-employed,good,mortgage,car,7000,48,1,low
+63,33100.0,salaried,good,rent,car,6400,48,0,low
+47,42600.0,salaried,fair,mortgage,home improvement,8900,12,0,low
+42,37600.0,unemployed,good,rent,home improvement,7900,24,0,low
+57,41000.0,salaried,poor,,car,8800,36,0,low
+46,,contract,good,rent,personal,8600,48,0,low
+43,90100.0,self-employed,fair,own,education,4800,60,0,low
+35,23900.0,salaried,good,rent,car,10100,60,0,low
+41,18900.0,contract,poor,mortgage,home improvement,3900,36,1,high
+57,24200.0,salaried,good,mortgage,home improvement,12600,12,1,low
+21,20900.0,contract,fair,rent,car,24200,36,0,high
+20,,salaried,poor,own,education,8300,24,0,low
+55,55200.0,salaried,good,own,business,9300,24,0,low
+37,24800.0,contract,good,own,home improvement,30900,60,1,high
+59,20400.0,salaried,fair,rent,education,8300,60,0,low
+20,32500.0,salaried,good,own,education,3900,60,0,low
+65,71400.0,,good,mortgage,education,11500,12,2,low
+25,10700.0,salaried,fair,mortgage,education,4500,60,1,low
+40,48400.0,salaried,good,own,car,13600,60,1,low
+68,23500.0,self-employed,good,rent,education,3500,24,1,low
+24,61000.0,contract,good,mortgage,car,9600,36,1,low
+52,23500.0,salaried,good,rent,car,10700,36,0,low
+56,,self-employed,good,rent,education,18000,36,2,high
+40,19400.0,unemployed,good,rent,home improvement,11700,12,0,high
+23,24600.0,salaried,good,mortgage,car,3800,12,0,low
+45,71200.0,contract,good,own,home improvement,10300,36,2,high
+41,55200.0,salaried,good,mortgage,business,9500,24,0,low
+63,31900.0,contract,fair,own,business,22300,36,0,high
+53,25800.0,self-employed,good,own,home improvement,6700,36,1,low
+36,16300.0,contract,good,rent,business,7500,24,0,high
+21,32000.0,contract,fair,rent,home improvement,11900,36,3,high
+49,37700.0,contract,good,mortgage,personal,7600,36,0,low
+33,36800.0,salaried,good,own,personal,4100,60,2,low
+53,36600.0,self-employed,good,rent,education,5200,24,0,low
+63,,salaried,fair,mortgage,car,9700,36,1,low
+37,37100.0,salaried,fair,own,personal,8800,12,1,low
+65,37500.0,,poor,rent,car,4400,24,4,high
+45,68200.0,self-employed,poor,rent,education,7600,12,0,high
+46,88400.0,self-employed,good,rent,education,9300,12,0,low
+58,35900.0,unemployed,good,rent,business,1600,48,2,high
+59,27000.0,salaried,good,mortgage,car,2700,12,1,low
+65,37100.0,salaried,good,mortgage,personal,1700,12,0,low
+69,29000.0,salaried,poor,rent,business,2200,60,0,high
+26,27300.0,contract,good,own,education,10200,60,2,high
+40,37200.0,salaried,good,rent,car,9600,12,0,low
+66,23900.0,salaried,fair,own,home improvement,2000,60,0,low
+34,50100.0,contract,fair,own,home improvement,13700,60,3,high
+19,,self-employed,good,rent,business,16100,60,0,high
+48,42700.0,salaried,poor,mortgage,education,8900,36,2,high
+57,35200.0,salaried,good,rent,car,11200,48,0,low
+56,27500.0,salaried,fair,,car,11300,12,0,low
+60,24900.0,contract,good,rent,home improvement,5600,12,0,low
+51,34300.0,self-employed,poor,rent,education,21500,12,0,high
+25,29800.0,salaried,good,rent,car,4400,12,2,low
+62,42400.0,salaried,good,rent,education,6500,60,0,low
+40,38100.0,salaried,poor,rent,education,1100,24,0,high
+62,20700.0,,poor,rent,education,14100,24,1,high
+60,39300.0,self-employed,poor,own,business,5500,12,0,high
+68,20900.0,unemployed,poor,mortgage,car,23400,36,2,high
+19,28900.0,salaried,good,mortgage,personal,22200,12,1,low
+63,33400.0,salaried,good,mortgage,car,1300,24,0,low
+51,15000.0,self-employed,good,own,personal,7700,60,2,high
+43,39800.0,contract,good,,education,8600,60,1,low
+59,,self-employed,poor,own,education,6400,60,0,high
+67,35600.0,salaried,good,own,business,4400,24,2,low
+45,31500.0,contract,good,rent,car,6800,48,1,low
+23,32300.0,,good,own,business,8900,12,1,low
+56,24600.0,,good,mortgage,home improvement,8300,24,1,high
+30,33800.0,salaried,good,rent,personal,7100,24,0,low
+30,29800.0,salaried,good,rent,home improvement,11100,60,0,low
+28,39800.0,contract,poor,mortgage,education,7200,60,1,high
+29,22200.0,salaried,fair,own,education,19800,60,2,high
+65,42400.0,contract,good,mortgage,car,4900,24,0,low
+37,40700.0,self-employed,poor,rent,business,8200,24,0,high
+24,35800.0,salaried,fair,rent,car,11700,60,2,high
+28,31300.0,salaried,good,own,business,12400,12,0,low
+39,48900.0,contract,poor,rent,education,20200,36,1,high
+36,18100.0,salaried,poor,mortgage,home improvement,5800,12,1,high
+34,47000.0,unemployed,fair,rent,home improvement,15600,36,1,high
+67,42600.0,contract,good,mortgage,business,8300,36,1,low
+63,43400.0,salaried,poor,own,business,1900,48,1,low
+48,45400.0,salaried,poor,own,home improvement,14600,60,0,high
+69,28400.0,contract,good,mortgage,home improvement,3200,24,2,low
+36,34000.0,salaried,good,rent,business,6000,12,0,low
+26,50900.0,salaried,poor,rent,home improvement,11700,12,0,high
+32,46300.0,salaried,fair,rent,personal,5800,36,3,low
+23,41900.0,salaried,good,rent,car,4400,48,2,low
+67,19300.0,salaried,fair,own,personal,11900,24,2,low
+30,48600.0,self-employed,good,mortgage,education,15900,48,0,low
+41,64600.0,contract,poor,rent,personal,5600,60,0,high
+29,60100.0,contract,good,rent,home improvement,6700,60,1,low
+69,42400.0,salaried,good,mortgage,personal,11000,12,2,low
+27,18900.0,salaried,good,rent,car,8900,48,0,low
+45,58300.0,salaried,good,rent,car,7100,48,0,low
+67,35700.0,unemployed,poor,rent,car,24400,36,2,high
+45,12200.0,,good,mortgage,home improvement,6900,24,1,low
+64,45200.0,salaried,good,rent,car,4500,24,2,low
+64,19500.0,contract,poor,mortgage,business,6500,48,1,high
+58,21300.0,salaried,good,,personal,10800,36,2,high
+56,28700.0,salaried,good,mortgage,education,5100,60,2,low
+48,67700.0,self-employed,poor,mortgage,education,4200,12,1,high
+48,32300.0,salaried,good,own,business,2600,60,0,low
+61,43100.0,unemployed,poor,rent,personal,27500,48,0,high
+40,83800.0,salaried,poor,rent,car,12100,60,0,high
+67,78200.0,salaried,good,rent,home improvement,3600,12,1,low
+63,36400.0,salaried,fair,own,education,11700,24,0,low
+38,34200.0,self-employed,fair,own,home improvement,11200,60,1,high
+39,21600.0,salaried,fair,mortgage,home improvement,17300,24,3,high
+55,27900.0,contract,,rent,education,4200,36,1,low
+66,46200.0,contract,good,mortgage,car,17400,12,2,low
+23,45600.0,unemployed,good,own,personal,14000,60,1,high
+22,40100.0,salaried,good,mortgage,home improvement,3600,24,1,low
+31,59700.0,salaried,good,rent,personal,9500,60,2,low
+40,27000.0,salaried,poor,rent,education,9800,12,0,high
+27,,unemployed,poor,rent,personal,10400,60,1,high
+45,53100.0,contract,good,mortgage,personal,1500,48,1,low
+46,49700.0,salaried,fair,mortgage,business,10000,12,2,low
+67,61800.0,self-employed,good,rent,education,6500,12,1,low
+57,45600.0,contract,good,rent,business,14100,48,0,low
+31,33200.0,unemployed,good,rent,education,9700,12,0,low
+59,44900.0,self-employed,poor,mortgage,personal,5600,60,0,low
+60,24300.0,contract,good,mortgage,personal,4100,48,1,low
+53,18300.0,contract,fair,own,home improvement,7000,36,0,low
+53,49600.0,salaried,poor,rent,home improvement,10100,48,3,high
+34,37200.0,salaried,good,,personal,8100,12,1,low
+55,43900.0,self-employed,fair,mortgage,car,2900,60,1,low
+25,17800.0,salaried,good,rent,education,21200,60,0,high
+51,32400.0,salaried,fair,mortgage,education,14300,24,1,low
+65,29100.0,unemployed,fair,mortgage,car,8800,48,0,high
+68,25900.0,self-employed,poor,mortgage,business,9700,12,1,low
+34,13800.0,salaried,poor,own,business,12000,24,0,high
+35,32800.0,unemployed,fair,mortgage,car,9900,60,0,high
+50,57200.0,salaried,poor,mortgage,business,7400,12,0,low
+39,45300.0,,good,mortgage,education,16700,24,1,high
+56,29100.0,contract,fair,mortgage,personal,7600,48,0,low
+29,37900.0,salaried,good,own,business,7000,48,1,low
+27,53700.0,salaried,good,rent,home improvement,8800,60,0,low
+21,11000.0,salaried,,own,home improvement,8000,12,1,low
+42,36100.0,contract,fair,mortgage,car,9500,36,0,low
+29,48700.0,salaried,fair,rent,education,47000,12,0,high
+34,,salaried,good,own,education,6000,36,0,low
+65,82100.0,contract,poor,mortgage,home improvement,11500,36,0,high
+60,63600.0,self-employed,good,,home improvement,14600,24,0,low
+61,43900.0,self-employed,good,mortgage,business,2800,48,0,low
+49,43700.0,self-employed,poor,rent,business,7100,24,0,high
+24,54400.0,salaried,poor,rent,car,2700,36,1,high
+57,30000.0,salaried,fair,own,personal,5200,48,0,low
+49,37500.0,salaried,good,rent,education,2800,36,0,low
+65,57400.0,salaried,good,mortgage,car,9700,12,0,low
+43,92100.0,salaried,poor,rent,education,5600,36,0,high
+27,35500.0,self-employed,good,own,business,15800,24,2,low
+49,37400.0,self-employed,fair,mortgage,personal,7000,12,1,low
+42,41700.0,self-employed,fair,rent,business,6500,48,2,low
+52,69900.0,salaried,good,rent,car,5600,12,0,low
+38,37700.0,salaried,poor,rent,car,4700,12,1,low
+34,74000.0,contract,good,own,education,15900,24,2,low
+25,24700.0,salaried,fair,rent,car,3100,12,1,low
+68,,salaried,,mortgage,car,17400,36,0,low
+57,34900.0,salaried,good,rent,education,7400,48,2,low
+42,54400.0,unemployed,fair,rent,business,3300,24,1,high
+30,61100.0,salaried,fair,mortgage,business,9000,60,0,high
+51,19400.0,salaried,fair,rent,personal,5400,12,0,low
+40,25300.0,salaried,good,rent,car,5300,60,1,low
+51,44400.0,self-employed,poor,,car,17900,36,1,high
+23,28400.0,unemployed,poor,mortgage,business,12500,48,0,high
+28,,self-employed,good,mortgage,personal,800,36,0,low
+56,60900.0,salaried,poor,own,business,7300,60,0,high
+22,47700.0,salaried,fair,rent,business,7300,24,3,high
+53,47700.0,self-employed,good,rent,personal,6000,12,1,low
+39,30800.0,unemployed,poor,own,education,21000,60,0,high
+19,60700.0,salaried,good,rent,business,4500,48,1,low
+57,34300.0,contract,fair,rent,personal,4600,60,0,low
+54,62500.0,salaried,poor,own,personal,9200,24,1,high
+60,25300.0,salaried,fair,rent,education,16500,12,1,low
+64,26000.0,salaried,good,mortgage,car,2800,36,0,low
+56,41900.0,self-employed,,mortgage,business,7300,36,1,high
+61,27800.0,,fair,own,car,6800,36,0,high
+24,51700.0,self-employed,poor,rent,car,12400,24,0,low
+65,42900.0,salaried,good,mortgage,home improvement,29500,60,0,low
+65,25200.0,self-employed,fair,mortgage,home improvement,13900,24,0,low
+54,39500.0,salaried,poor,own,business,6100,36,0,low
+59,32600.0,salaried,good,rent,home improvement,4800,12,3,low
+56,57600.0,salaried,good,mortgage,car,1000,36,2,low
+63,28700.0,salaried,good,rent,personal,8700,12,0,low
+64,31300.0,salaried,good,rent,home improvement,14500,36,0,low
+45,65800.0,salaried,good,rent,personal,12900,12,0,low
+60,104500.0,salaried,good,mortgage,business,5700,24,0,low
+65,93900.0,salaried,good,own,home improvement,21200,12,1,low
+34,39300.0,salaried,fair,rent,education,3500,12,2,low
+21,42100.0,contract,good,rent,car,16200,48,0,low
+27,76100.0,,fair,rent,car,11500,60,0,high
+20,36100.0,salaried,good,rent,home improvement,5600,12,1,low
+41,24600.0,self-employed,good,rent,home improvement,15900,36,0,low
+20,40200.0,contract,fair,rent,education,3700,60,2,high
+32,46800.0,salaried,good,mortgage,personal,4400,60,2,low
+31,26300.0,self-employed,fair,mortgage,personal,10500,60,0,high
+55,18200.0,salaried,good,mortgage,car,24800,12,1,high
+31,20000.0,self-employed,fair,own,business,14600,24,1,high
+67,51500.0,unemployed,poor,mortgage,business,5300,12,0,high
+28,27100.0,salaried,good,mortgage,home improvement,22300,48,1,high
+68,35800.0,unemployed,fair,own,education,32700,24,1,high
+47,42000.0,self-employed,fair,mortgage,education,10200,60,1,low
+31,50400.0,contract,good,mortgage,home improvement,9000,24,2,low
+20,32800.0,self-employed,poor,rent,business,4000,12,0,high
+34,47800.0,contract,good,,personal,3900,24,0,low
+49,25600.0,,good,rent,car,2800,36,0,low
+24,32400.0,self-employed,fair,rent,car,4000,36,1,low
+27,,salaried,fair,rent,personal,2400,36,2,high
+24,63500.0,salaried,fair,mortgage,car,6800,36,0,low
+53,37700.0,self-employed,poor,mortgage,business,4900,24,0,high
+23,27400.0,salaried,,rent,car,6300,12,2,low
+20,32600.0,salaried,fair,rent,home improvement,10900,24,2,low
+42,34600.0,contract,fair,own,car,3800,36,0,low
+34,52300.0,contract,poor,own,business,4900,12,3,high
+48,18600.0,self-employed,fair,rent,home improvement,8900,24,0,low
+66,23900.0,salaried,fair,rent,education,32300,48,0,high
+62,32200.0,self-employed,good,rent,business,14300,12,0,low
+46,119300.0,salaried,fair,rent,car,1700,12,1,low
+51,58700.0,self-employed,fair,,business,12900,60,1,high
+60,36300.0,self-employed,,rent,home improvement,11500,36,2,high
+41,52600.0,self-employed,poor,own,home improvement,6800,24,2,high
+52,96400.0,salaried,fair,mortgage,car,4400,60,0,low
+30,,salaried,poor,rent,personal,10400,12,0,high
+50,32400.0,self-employed,good,own,car,24600,24,3,low
+31,65900.0,salaried,fair,rent,education,15300,60,0,high
+28,47700.0,self-employed,good,mortgage,home improvement,6600,24,2,low
+57,51600.0,salaried,fair,rent,business,6600,12,1,low
+48,30400.0,salaried,good,rent,personal,11900,60,1,low
+38,90800.0,salaried,good,mortgage,car,11400,60,1,low
+21,82400.0,self-employed,poor,rent,education,19600,36,2,high
+31,49300.0,unemployed,good,rent,education,8600,24,0,low
+59,51900.0,contract,good,rent,home improvement,7200,36,1,low
+42,15300.0,salaried,good,own,car,5400,24,0,low
+67,50900.0,contract,poor,own,personal,6400,24,2,high
+64,35000.0,salaried,good,rent,education,5100,48,2,low
+62,46400.0,self-employed,poor,rent,personal,4700,48,0,high
+19,51900.0,salaried,good,rent,business,2200,24,2,high
+21,32700.0,salaried,,rent,personal,5300,24,1,low
+48,17800.0,salaried,fair,own,personal,11400,36,0,high
+36,45100.0,salaried,fair,rent,business,17100,36,0,low
+61,27300.0,self-employed,poor,rent,education,7900,12,0,low
+35,32900.0,self-employed,poor,rent,home improvement,24000,24,2,high
+26,29100.0,self-employed,good,mortgage,car,20700,36,2,high
+24,32700.0,salaried,fair,rent,home improvement,1600,12,0,low
+34,13500.0,self-employed,fair,own,education,9500,48,0,high
+50,66000.0,salaried,,rent,business,9200,60,0,low
+25,42800.0,self-employed,fair,rent,business,12600,48,0,high
+59,63000.0,salaried,poor,mortgage,home improvement,17500,48,0,high
+34,93100.0,self-employed,good,mortgage,business,6300,60,2,low
+34,38600.0,salaried,poor,own,education,15900,60,4,high
+52,,salaried,good,own,home improvement,1900,24,2,low
+63,25500.0,salaried,good,rent,education,12700,24,1,low
+41,22200.0,salaried,fair,own,education,3300,24,0,low
+59,30500.0,salaried,good,own,car,3300,24,0,low
+34,39600.0,self-employed,fair,own,personal,15000,48,2,low
+25,15500.0,contract,good,,education,5200,12,0,low
+61,44500.0,salaried,good,mortgage,business,12800,12,0,low
+58,19300.0,salaried,fair,rent,business,8000,24,3,high
+57,43600.0,self-employed,fair,rent,home improvement,10200,48,1,low
+64,36300.0,salaried,good,rent,home improvement,6500,24,2,low
+44,33200.0,contract,good,rent,personal,2200,48,2,high
+29,36900.0,salaried,fair,mortgage,car,18600,12,1,high
+48,29900.0,salaried,poor,own,car,18600,36,1,high
+48,29000.0,salaried,poor,rent,personal,9200,24,0,high
+38,17900.0,salaried,fair,own,personal,8000,24,0,high
+51,37700.0,salaried,good,rent,car,4900,24,0,low
+32,87600.0,salaried,good,mortgage,home improvement,4200,24,0,low
+50,93100.0,self-employed,good,rent,personal,4100,60,2,low
+59,69200.0,unemployed,good,own,home improvement,3000,48,1,low
+23,52400.0,salaried,good,mortgage,business,7700,36,1,low
+42,28200.0,contract,good,own,education,18200,48,1,high
+52,73100.0,salaried,good,rent,home improvement,6200,60,1,low
+21,37200.0,self-employed,good,rent,education,11500,12,0,low
+51,37000.0,salaried,good,rent,home improvement,11900,12,0,low
+65,33500.0,,fair,mortgage,business,4900,12,0,low
+61,39800.0,contract,fair,own,personal,13200,12,1,low
+53,31400.0,self-employed,poor,rent,education,8100,24,3,high
+59,36800.0,salaried,poor,rent,car,20900,60,0,high
+37,23400.0,salaried,fair,rent,personal,19400,12,1,high
+35,32300.0,contract,poor,,car,7200,12,0,high
+23,106500.0,unemployed,good,mortgage,home improvement,7200,24,0,low
+55,,self-employed,fair,own,home improvement,23700,12,0,low
+35,34300.0,contract,good,rent,business,4300,48,1,low
+63,48500.0,unemployed,,mortgage,education,26000,36,1,high
+42,52500.0,self-employed,poor,mortgage,car,19000,48,0,high
+64,23100.0,self-employed,fair,mortgage,home improvement,6200,24,0,low
+26,34800.0,salaried,fair,mortgage,personal,8000,60,2,high
+27,57700.0,salaried,fair,rent,home improvement,15100,12,1,low
+36,43100.0,self-employed,good,rent,home improvement,3600,60,0,low
+20,40300.0,unemployed,poor,mortgage,car,4100,48,0,high
+44,76800.0,salaried,good,rent,personal,15200,60,0,low
+52,28100.0,salaried,good,rent,personal,10800,48,1,low
+52,39600.0,salaried,good,rent,car,11300,36,0,low
+29,30200.0,self-employed,good,mortgage,business,36700,12,0,high
+27,74700.0,salaried,,rent,business,10100,24,0,high
+47,15900.0,contract,good,mortgage,car,6300,36,1,low
+51,28200.0,salaried,good,own,education,16500,24,1,low
+67,30100.0,self-employed,fair,mortgage,business,12900,36,2,high
+64,51500.0,self-employed,fair,rent,personal,6200,24,0,low
+38,50200.0,salaried,fair,mortgage,home improvement,4200,60,0,low
+27,71500.0,salaried,good,mortgage,education,11700,60,1,low
+31,18800.0,salaried,good,mortgage,business,6500,12,0,low
+63,53500.0,self-employed,poor,own,education,4800,48,2,low
+42,33500.0,salaried,good,own,business,5400,24,1,low
+69,28300.0,salaried,good,own,car,20000,24,0,low
+52,48700.0,salaried,good,rent,personal,7700,36,2,low
+49,25200.0,salaried,good,mortgage,education,10200,24,1,low
+24,15000.0,contract,poor,mortgage,car,2800,12,1,high
+49,32300.0,,fair,rent,car,3100,24,0,low
+38,19500.0,unemployed,fair,rent,personal,2000,60,0,high
+62,28500.0,contract,fair,rent,personal,9300,48,1,high
+25,45100.0,self-employed,fair,rent,home improvement,5400,60,1,low
+28,43900.0,salaried,fair,rent,business,1500,48,3,high
+52,78000.0,contract,good,own,education,31100,24,0,low
+53,34900.0,self-employed,good,mortgage,personal,9000,48,0,low
+61,19100.0,self-employed,good,rent,education,4800,48,0,low
+45,27200.0,self-employed,fair,mortgage,home improvement,16300,24,1,high
+38,25200.0,contract,fair,rent,education,11400,24,0,low
+34,22100.0,salaried,fair,own,car,11000,24,0,high
+37,46400.0,self-employed,good,own,personal,21400,60,1,low
+52,28600.0,,poor,rent,business,7500,60,2,high
+46,15700.0,salaried,good,mortgage,home improvement,14100,24,1,high
+34,,salaried,poor,mortgage,personal,4400,24,1,low
+29,36300.0,salaried,fair,rent,car,3700,12,0,low
+55,44800.0,salaried,fair,own,home improvement,3900,48,0,low
+31,40000.0,salaried,fair,rent,business,10300,12,3,high
+29,50700.0,salaried,,mortgage,education,8800,12,1,low
+35,38800.0,contract,fair,own,home improvement,6000,36,1,low
+62,66600.0,self-employed,good,own,car,11300,24,2,low
+42,46200.0,self-employed,fair,mortgage,personal,17300,12,2,low
+49,45500.0,unemployed,good,mortgage,education,2900,12,1,low
+23,45900.0,salaried,good,rent,car,13000,60,1,low
+36,,salaried,good,own,car,15700,12,1,low
+57,35500.0,salaried,good,own,personal,10800,48,0,low
+58,34000.0,salaried,good,own,home improvement,12400,36,1,low
+48,41900.0,unemployed,fair,rent,personal,7100,36,2,high
+63,20700.0,salaried,good,rent,home improvement,3400,60,1,low
+34,79600.0,contract,good,mortgage,car,17300,48,3,low
+27,40000.0,contract,poor,rent,personal,4800,36,0,high
+22,22100.0,salaried,good,rent,home improvement,12600,36,1,low
+29,17700.0,contract,fair,,car,20800,12,0,high
+57,33600.0,salaried,good,own,car,17100,60,0,low
+65,36700.0,salaried,good,rent,car,10000,48,0,low
+25,27600.0,salaried,good,mortgage,home improvement,10000,48,0,low
+44,39800.0,salaried,fair,rent,business,17300,24,1,high
+25,28600.0,salaried,good,mortgage,car,19400,36,1,high
+62,48900.0,salaried,poor,own,home improvement,4000,48,1,high
+25,27600.0,unemployed,poor,own,personal,2700,24,1,high
+51,37500.0,salaried,fair,own,personal,10800,60,2,high
+23,59300.0,salaried,good,mortgage,car,12600,12,3,low
+56,121400.0,unemployed,good,mortgage,education,8900,24,1,high
+65,24300.0,salaried,good,mortgage,business,9200,24,2,low
+56,31000.0,unemployed,good,,business,6400,36,0,low
+32,26200.0,contract,poor,mortgage,business,10100,24,0,high
+61,54300.0,self-employed,good,own,home improvement,2500,36,2,low
+34,22800.0,salaried,fair,mortgage,education,12200,12,0,low
+57,30700.0,salaried,fair,rent,personal,15700,12,0,low
+61,37700.0,salaried,good,own,education,12300,60,0,low
+43,24600.0,salaried,good,rent,business,4000,36,0,low
+50,24800.0,salaried,fair,mortgage,personal,6300,24,0,low
+62,30800.0,salaried,fair,rent,business,10300,12,0,low
+28,14800.0,unemployed,good,mortgage,car,8000,36,0,high
+20,19900.0,salaried,poor,mortgage,car,10200,36,0,high
+41,31700.0,unemployed,good,mortgage,education,10900,12,0,high
+28,40800.0,self-employed,good,rent,personal,4000,36,0,low
+64,35100.0,salaried,good,mortgage,education,11700,36,2,low
+63,17200.0,self-employed,fair,own,education,32400,48,1,high
+38,31000.0,salaried,good,own,home improvement,6600,48,0,low
+34,54700.0,salaried,good,rent,home improvement,5000,24,0,low
+55,49000.0,unemployed,fair,mortgage,education,10600,12,2,high
+42,36800.0,salaried,fair,,car,9600,12,2,low
+23,25600.0,salaried,fair,mortgage,car,16000,60,0,high
+52,50700.0,salaried,fair,rent,education,13100,12,2,low
+56,29400.0,self-employed,fair,mortgage,home improvement,16300,12,0,high
+22,22600.0,salaried,good,own,car,6600,12,0,low
+58,26600.0,salaried,fair,mortgage,business,15800,24,2,high
+46,73300.0,self-employed,good,mortgage,education,13800,36,0,low
+61,42200.0,salaried,good,own,business,18600,48,0,low
+62,64300.0,contract,good,rent,business,20100,36,0,low
+53,30800.0,salaried,good,mortgage,home improvement,4700,24,0,low
+36,58200.0,salaried,good,own,business,4200,48,0,low
+37,29100.0,salaried,fair,rent,education,6100,60,1,low
+55,35600.0,self-employed,fair,rent,car,20400,12,1,high
+22,116900.0,unemployed,good,rent,car,10800,24,2,high
+30,53900.0,contract,good,mortgage,home improvement,2900,36,1,low
+45,30500.0,salaried,good,own,home improvement,7600,24,1,low
+67,36700.0,salaried,fair,mortgage,car,2600,48,1,low
+57,44200.0,salaried,fair,mortgage,business,28400,48,0,low
+60,65800.0,salaried,poor,rent,education,12700,60,0,high
+28,30600.0,salaried,good,rent,home improvement,3500,60,1,low
+33,17400.0,,,rent,home improvement,11500,12,0,high
+32,33700.0,unemployed,poor,mortgage,personal,36700,60,0,high
+57,38400.0,self-employed,good,mortgage,business,11800,48,0,low
+46,40100.0,contract,fair,own,education,3000,24,0,low
+29,69000.0,,poor,mortgage,education,6800,24,0,high
+57,44000.0,salaried,fair,own,personal,13900,36,1,low
+51,55000.0,salaried,good,own,car,24800,24,0,low
+64,23300.0,salaried,fair,own,business,14600,36,2,low
+47,56400.0,salaried,poor,mortgage,home improvement,13300,48,0,low
+25,98100.0,salaried,good,mortgage,personal,3900,48,1,low
+64,54100.0,contract,good,rent,home improvement,14000,48,1,low
+28,42800.0,salaried,good,own,personal,22700,24,1,low
+21,40900.0,salaried,poor,own,car,4800,12,0,high
+59,85300.0,salaried,fair,rent,education,4700,60,1,low
+41,25200.0,self-employed,good,rent,home improvement,4600,48,3,low
+51,36300.0,self-employed,fair,rent,personal,11500,48,0,low
+25,47000.0,self-employed,fair,rent,personal,8000,24,0,low
+55,53400.0,salaried,good,rent,home improvement,25100,12,0,low
+39,31400.0,salaried,fair,mortgage,personal,20500,24,2,high
+69,43800.0,salaried,fair,rent,business,13800,24,0,low
+51,33700.0,salaried,good,own,personal,11200,12,2,low
+66,40300.0,contract,fair,own,personal,2700,24,1,low
+59,36000.0,unemployed,poor,rent,personal,7500,48,0,high
+61,22800.0,self-employed,fair,own,home improvement,9000,60,0,low
+23,37800.0,salaried,fair,mortgage,education,23800,60,2,high
+58,56700.0,salaried,good,mortgage,home improvement,9200,36,0,low
+49,24700.0,contract,good,mortgage,personal,18300,60,0,high
+39,34300.0,unemployed,poor,rent,car,12000,48,2,high
